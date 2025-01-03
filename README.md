@@ -14,6 +14,7 @@ This project analyzes **Accenture's stock performance** from 2015 to 2021, using
 - **Stock Market Data**: Used for extracting and analyzing historical data.
 
 ##Dataset
+< a href="https://github.com/Judah-07/Accenture-stock-Dashboard-15-21/blob/main/Accenture_stock_history.csv">Dataset</a>
 
 
 ## How to Use  

@@ -29,7 +29,8 @@ This project analyzes **Accenture's stock performance** from 2015 to 2021, using
 This project is designed to provide a comprehensive view of Accenture's stock trends over six years, showcasing its consistent growth and key market insights.  
 
 ## Dash board 
-![Uploading Accenture stock dashboard.png…]()
+![Accenture stock dashboard](https://github.com/user-attachments/assets/125b4a41-5d1e-47bf-9e8a-302070bde4b0)
+
 
 
 

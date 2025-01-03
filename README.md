@@ -28,6 +28,11 @@ This project analyzes **Accenture's stock performance** from 2015 to 2021, using
 ## Purpose  
 This project is designed to provide a comprehensive view of Accenture's stock trends over six years, showcasing its consistent growth and key market insights.  
 
+## Dash board 
+![Uploading Accenture stock dashboard.png…]()
+
+
+
 ## License  
 This project is open source and available under the [MIT License](LICENSE).  
 
